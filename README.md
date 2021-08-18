@@ -1,7 +1,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunyHarang%2Fhit-counter&count_bg=%23FFA300&title_bg=%23555555&icon=&icon_color=%23DBDBDB&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <h1 align="left">안녕하세요! 👋, 주니하랑 입니다!</h1>
-<h3 align="left">저는 Full-Stack 개발자로 취업을 준비하고 있습니다!</h3>
+<h3 align="left">주니하랑의 **Github**에 놀러오신 것을 환영합니다!</h3>
+<h3 align="left">Follow 해주셔서 같이 정보 공유해요!</h3>
 
 - 📝 주니하랑 블로그 : **[https://junyharang.tistory.com](https://junyharang.tistory.com)**
 
