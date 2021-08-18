@@ -1,7 +1,7 @@
 <h1 align="left">안녕하세요! 👋, 주니하랑 입니다!</h1>
 <h3 align="left">저는 Full-Stack 개발자로 취업을 준비하고 있습니다!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=junyharang&label=Profile%20views&color=30ff50&style=flat" alt="junyharang" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=junyharang&label=Profile%20views&color=2bbf00&style=flat" alt="junyharang" /> </p>
 
 
 0e75b6
