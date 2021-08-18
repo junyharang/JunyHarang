@@ -53,11 +53,11 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=junyharang&show_icons=true&locale=en&layout=compact" alt="junyharang" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=junyharang&show_icons=true&locale=en&layout=compact" alt="junyharang" />
 </p>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=junyharang&show_icons=true&locale=en" alt="junyharang" />
+  &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=junyharang&show_icons=true&locale=en" alt="junyharang" />
 </p>
 
 <p>
