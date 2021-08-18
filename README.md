@@ -3,12 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junyharang&label=Profile%20views&color=2bbf00&style=flat" alt="junyharang" /> </p>
 
-
-0e75b6
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunyHarang%2Fhit-counter&count_bg=%23FFA300&title_bg=%23555555&icon=&icon_color=%23DBDBDB&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=junyharang&show_icons=true&locale=en" alt="junyharang" />
+  &nbsp;<img align="center" bgcolor="black" src="https://github-readme-stats.vercel.app/api?username=junyharang&show_icons=true&locale=en" alt="junyharang" />
 </p>
 
 ---
