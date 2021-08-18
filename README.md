@@ -1,3 +1,7 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunyHarang%2Fhit-counter&count_bg=%23FFA300&title_bg=%23555555&icon=&icon_color=%23DBDBDB&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<br><br>
+
 <h1 align="center">Hi 👋, I'm JunyHarang</h1>
 <h3 align="center">I want Full-Stack Developer And I White Hat</h3>
 
@@ -26,9 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=junyharang&show_icons=true&locale=en" alt="junyharang" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=junyharang&" alt="junyharang" /></p>
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunyHarang%2Fhit-counter&count_bg=%23FFA300&title_bg=%23555555&icon=&icon_color=%23DBDBDB&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JunyHarang)](https://github.com/anuraghazra/github-readme-stats)
-
