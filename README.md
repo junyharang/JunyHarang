@@ -11,7 +11,7 @@
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📝 주니하랑 블로그 : [https://junyharang.tistory.com](https://junyharang.tistory.com)
+- 📝 주니하랑 블로그 : **[https://junyharang.tistory.com](https://junyharang.tistory.com)**
 
 - 📫 주니하랑 메일 : **junyharang8592@gmail.com**
 
