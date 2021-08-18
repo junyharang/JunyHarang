@@ -1,3 +1,6 @@
+<h1 align="left">안녕하세요! 👋, 주니하랑 입니다!</h1>
+<h3 align="center">저는 Full-Stack 개발자로 취업을 준비하고 있습니다!</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junyharang&label=Profile%20views&color=0e75b6&style=flat" alt="junyharang" /> </p>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunyHarang%2Fhit-counter&count_bg=%23FFA300&title_bg=%23555555&icon=&icon_color=%23DBDBDB&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -10,8 +13,7 @@
 
 <br><br>
 
-<h1 align="left">안녕하세요! 👋, 주니하랑 입니다!</h1>
-<h3 align="center">저는 Full-Stack 개발자로 취업을 준비하고 있습니다!</h3>
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=junyharang" alt="junyharang" /></a> </p>
 
