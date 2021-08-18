@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunyHarang%2Fhit-counter&count_bg=%23FFA300&title_bg=%23555555&icon=&icon_color=%23DBDBDB&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-<a href="https://junyharang.tistory.com/category/Programing%20작업실/Java" target="_blank"><img src="https://img.shields.io/badge/java-#007396?style=flat-square&logo=java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
