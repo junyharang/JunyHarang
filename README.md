@@ -2,8 +2,8 @@
 
 <br><br>
 
-<h1 align="center">Hi 👋, I'm JunyHarang</h1>
-<h3 align="center">I want Full-Stack Developer And I White Hat</h3>
+<h1 align="left">안녕하세요! 👋, 주니하랑 입니다!</h1>
+<h3 align="center">저는 Full-Stack 개발자로 취업을 꿈꾸며, 정보보안도 공부하고 싶습니다!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junyharang&label=Profile%20views&color=0e75b6&style=flat" alt="junyharang" /> </p>
 
@@ -11,11 +11,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Java, JSP, jQuery, HTML, CSS, Spring, JPA, MariaDB, OracleDB, Querydsl, DataJPA**
+- 📝 주니하랑 블로그 : [https://junyharang.tistory.com](https://junyharang.tistory.com)
 
-- 📝 I regularly write articles on [https://junyharang.tistory.com](https://junyharang.tistory.com)
-
-- 📫 How to reach me **junyharang8592@gmail.com**
+- 📫 주니하랑 메일 : **junyharang8592@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
