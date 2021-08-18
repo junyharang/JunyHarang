@@ -44,6 +44,8 @@
     <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> 
 </p>
 
+<br><br>
+
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=junyharang&show_icons=true&locale=en&layout=compact" alt="junyharang" />
 </p>
