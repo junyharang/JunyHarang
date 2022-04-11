@@ -4,9 +4,9 @@
 
 ## 👋 &nbsp;어제보다 오늘이 더 나은 개발자 주니하랑 입니다. 😃
 
-✔️ &nbsp;Server Engineer 5년 경력을 가지고 있습니다.\
-✔️ &nbsp;Game 보다 Coding을 사랑하고, 항상 Coding을 하려고 노력합니다..\
-✔️ &nbsp;기술을 공부하고 공유하며 함께 성장하는 삶을 지향합니다.\
+✔️ &nbsp;Server Engineer 5년 경력을 가지고 있습니다.<br>
+✔️ &nbsp;Game 보다 Coding을 사랑하고, 항상 Coding을 하려고 노력합니다.<br>
+✔️ &nbsp;기술을 공부하고 공유하며 함께 성장하는 삶을 지향합니다.<br>
 
 ### 🛠 &nbsp;Technical Skills
 ![LINUX](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
