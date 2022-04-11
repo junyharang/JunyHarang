@@ -6,12 +6,6 @@
 
 ✔️ &nbsp;Game 보다 Coding을 사랑하고, 항상 Coding을 하려고 노력합니다..\
 ✔️ &nbsp;기술을 공부하고 공유하며 함께 성장하는 삶을 지향합니다.\
-- 📝 주니하랑 블로그 : **[https://junyharang.tistory.com](https://junyharang.tistory.com)**
-
-- 📫 주니하랑 메일 : **junyharang8592@gmail.com**
-
-
-
 
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=junyharang&show_icons=true&locale=en" alt="junyharang" />
