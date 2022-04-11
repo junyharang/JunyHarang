@@ -8,8 +8,6 @@
 
 - 📫 주니하랑 메일 : **junyharang8592@gmail.com**
 
-<h1 align="left">안녕하세요! 👋, 주니하랑 입니다!</h1>
-<h3 align="left">주니하랑의 Github에 놀러오신 것을 환영합니다! Follow 해주셔서 같이 정보 공유해요!</h3>
 
 
 
@@ -82,3 +80,13 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junyharang&label=Profile%20views&color=2bbf00&style=flat" alt="junyharang" /> </p>
+
+### 💻 &nbsp;GitHub Analytics
+
+[![Github stats](https://github-readme-streak-stats.herokuapp.com/?user=junyharang&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/congchu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junyharang&layout=compact&theme=algolia)](https://github.com/congchu/github-readme-stats)
+
+
+### 🤝🏻 &nbsp;Contact
+<a href="mailto:cookie00421@gmail.com"><img src="https://img.shields.io/badge/-cookie00421@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/jeongkooo"><img src="https://img.shields.io/badge/-@jeongkooo_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
