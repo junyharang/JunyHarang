@@ -10,7 +10,7 @@
 
 ### 🛠 &nbsp;Technical Skills
 ![LINUX](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-![Window Server](https://img.shields.io/badge/-Window-05122A?style=flat&logo=windowServer)&nbsp;\
+![Window Server](https://img.shields.io/badge/-WindowServer-05122A?style=flat&logo=windowServer)&nbsp;\
 ![JAVA](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
