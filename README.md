@@ -1,11 +1,17 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunyHarang%2Fhit-counter&count_bg=%23FFA300&title_bg=%23555555&icon=&icon_color=%23DBDBDB&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<h1 align="left">안녕하세요! 👋, 주니하랑 입니다!</h1>
-<h3 align="left">주니하랑의 Github에 놀러오신 것을 환영합니다! Follow 해주셔서 같이 정보 공유해요!</h3>
+## 👋 &nbsp;어제보다 오늘이 더 나은 개발자 주니하랑 입니다. 😃
 
+✔️ &nbsp;Game 보다 Coding을 사랑하고, 항상 Coding을 하려고 노력합니다..\
+✔️ &nbsp;기술을 공부하고 공유하며 함께 성장하는 삶을 지향합니다.\
 - 📝 주니하랑 블로그 : **[https://junyharang.tistory.com](https://junyharang.tistory.com)**
 
 - 📫 주니하랑 메일 : **junyharang8592@gmail.com**
+
+<h1 align="left">안녕하세요! 👋, 주니하랑 입니다!</h1>
+<h3 align="left">주니하랑의 Github에 놀러오신 것을 환영합니다! Follow 해주셔서 같이 정보 공유해요!</h3>
+
+
 
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=junyharang&show_icons=true&locale=en" alt="junyharang" />
