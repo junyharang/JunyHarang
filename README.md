@@ -4,11 +4,13 @@
 
 ## 👋 &nbsp;어제보다 오늘이 더 나은 개발자 주니하랑 입니다. 😃
 
+✔️ &nbsp;Server Engineer 5년 경력을 가지고 있습니다.\
 ✔️ &nbsp;Game 보다 Coding을 사랑하고, 항상 Coding을 하려고 노력합니다..\
 ✔️ &nbsp;기술을 공부하고 공유하며 함께 성장하는 삶을 지향합니다.\
 
 ### 🛠 &nbsp;Technical Skills
 ![LINUX](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Window Server](https://img.shields.io/badge/-Window-05122A?style=flat&logo=window)&nbsp;\
 ![JAVA](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -27,7 +29,6 @@
 
 [![Github stats](https://github-readme-streak-stats.herokuapp.com/?user=junyharang&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/junyharang/github-readme-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junyharang&layout=compact&theme=algolia)](https://github.com/junyharang/github-readme-stats)
-
 
 ### 🤝🏻 &nbsp;Contact
 <a href="mailto:junyharang8592@gmail.com"><img src="https://img.shields.io/badge/-junyharang8592@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
