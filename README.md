@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunyHarang%2Fhit-counter&count_bg=%23FFA300&title_bg=%23555555&icon=&icon_color=%23DBDBDB&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<a href="https://junyharang.tistory.com/"><img src="https://img.shields.io/badge/Technical-Bolg-blue"/></a>
 ![https://komarev.com/ghpvc/?username=junyharang](https://komarev.com/ghpvc/?username=junyharang)
+<a href="https://junyharang.tistory.com/"><img src="https://img.shields.io/badge/Technical-Bolg-green"/></a>
+
 ## 👋 &nbsp;어제보다 오늘이 더 나은 개발자 주니하랑 입니다. 😃
 
 ✔️ &nbsp;Game 보다 Coding을 사랑하고, 항상 Coding을 하려고 노력합니다..\
