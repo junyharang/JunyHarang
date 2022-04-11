@@ -79,8 +79,8 @@
 
 ### 💻 &nbsp;GitHub Analytics
 
-[![Github stats](https://github-readme-streak-stats.herokuapp.com/?user=junyharang&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/congchu/github-readme-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junyharang&layout=compact&theme=algolia)](https://github.com/congchu/github-readme-stats)
+[![Github stats](https://github-readme-streak-stats.herokuapp.com/?user=junyharang&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/junyharang/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junyharang&layout=compact&theme=algolia)](https://github.com/junyharang/github-readme-stats)
 
 
 ### 🤝🏻 &nbsp;Contact
