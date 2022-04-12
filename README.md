@@ -6,7 +6,7 @@
 
 ✔️ &nbsp;Server Engineer 5년 경력을 가지고 있습니다.<br>
 ✔️ &nbsp;Game 보다 Coding을 사랑하고, 항상 Coding을 하려고 노력합니다.<br>
-✔️ &nbsp;기술을 공부하고 공유하며 함께 성장하는 삶을 지향합니다.<br>
+✔️ &nbsp;기술을 공부하고 공유하며 현재에 안주하지 않는 삶을 지향합니다.<br>
 
 ### 🛠 &nbsp;Technical Skills
 ![LINUX](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
