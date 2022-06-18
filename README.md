@@ -17,6 +17,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nest.js)&nbsp;\
+![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=node.js)&nbsp;
+![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=node.js)&nbsp;
+![OracleDB](https://img.shields.io/badge/-OracleDB-05122A?style=flat&logo=node.js)&nbsp;\
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js&logoColor=563D7C)&nbsp;
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-05122A?style=flat&logo=vue.js&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;\
