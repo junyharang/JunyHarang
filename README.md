@@ -22,8 +22,12 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![GitKraken](https://img.shields.io/badge/-GitKraken-05122A?style=flat&logo=git)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;\
 ![InteliJ](https://img.shields.io/badge/-InteliJ-05122A?style=flat&logo=intelij&logoColor=007ACC)&nbsp;
+![WebStorm](https://img.shields.io/badge/-WebStorm-05122A?style=flat&logo=intelij&logoColor=007ACC)&nbsp;
+![DataGrip](https://img.shields.io/badge/-DataGrip-05122A?style=flat&logo=intelij&logoColor=007ACC)&nbsp;
+![Pycharm](https://img.shields.io/badge/-Pycharm-05122A?style=flat&logo=intelij&logoColor=007ACC)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
 <br/>
 
