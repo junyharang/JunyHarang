@@ -14,9 +14,9 @@
 ![JAVA](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=java)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
-![JPA](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=jpa)&nbsp;
-![QueryDsl](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=querydsl)&nbsp;
-![MyBatis](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=mybatis)&nbsp;
+![JPA](https://img.shields.io/badge/-JPA-05122A?style=flat&logo=jpa)&nbsp;
+![QueryDsl](https://img.shields.io/badge/-QueryDsl-05122A?style=flat&logo=querydsl)&nbsp;
+![MyBatis](https://img.shields.io/badge/-MyBatis-05122A?style=flat&logo=mybatis)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nest.js)&nbsp;\
@@ -26,9 +26,9 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js&logoColor=563D7C)&nbsp;
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-05122A?style=flat&logo=vue.js&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;\
-![Jenkins](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=jenkins)&nbsp;
-![SonarQube](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=sonarqube)&nbsp;
-![docker](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=docker)&nbsp; \
+![Jenkins](https://img.shields.io/badge/-Jenkisn?style=flat&logo=jenkins)&nbsp;
+![SonarQube](https://img.shields.io/badge/-SonarQube?style=flat&logo=sonarqube)&nbsp;
+![docker](https://img.shields.io/badge/-Docker?style=flat&logo=docker)&nbsp; \
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GitKraken](https://img.shields.io/badge/-GitKraken-05122A?style=flat&logo=git)&nbsp;
