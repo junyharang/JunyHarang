@@ -27,7 +27,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;\
 ![Jenkins](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=jenkins)&nbsp;
 ![SonarQube](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=sonarqube)&nbsp;
-![docker](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=docker)&nbsp;
+![docker](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=docker)&nbsp; \
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GitKraken](https://img.shields.io/badge/-GitKraken-05122A?style=flat&logo=git)&nbsp;
