@@ -16,6 +16,7 @@
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
 ![JPA](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=jpa)&nbsp;
 ![QueryDsl](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=querydsl)&nbsp;
+![MyBatis](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=mybatis)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nest.js)&nbsp;\
