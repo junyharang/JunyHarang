@@ -47,4 +47,4 @@
 
 ### 🤝🏻 &nbsp;Contact
 <a href="mailto:junyharang8592@gmail.com"><img src="https://img.shields.io/badge/-junyharang8592@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/junyharang"><img src="https://img.shields.io/badge/-@junyharang_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/junyss_0327"><img src="https://img.shields.io/badge/-@junyharang_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
